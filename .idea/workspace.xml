@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed1626d9-c20e-482e-af15-0ec3a63ea8dd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="ed1626d9-c20e-482e-af15-0ec3a63ea8dd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="157" column="17" lean-forward="true" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+            <state relative-caret-position="148">
+              <caret line="143" column="12" lean-forward="true" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="12" />
               <folding>
                 <element signature="e#732#738#0" expanded="true" />
                 <element signature="e#738#744#0" expanded="true" />
@@ -281,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="157" column="17" lean-forward="true" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+        <state relative-caret-position="148">
+          <caret line="143" column="12" lean-forward="true" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="12" />
           <folding>
             <element signature="e#732#738#0" expanded="true" />
             <element signature="e#738#744#0" expanded="true" />
